@@ -1,4 +1,6 @@
-## Hi there 👋
+## Natalie Schweickert
+
+Hi everyone, welcome to my GitHub! I am a second year at the University of Virginia double majoring in Data Science and Global Security & Justice.
 
 <!--
 **natalie-s11/natalie-s11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
