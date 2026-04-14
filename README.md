@@ -1,6 +1,6 @@
 ## Natalie Schweickert
 
-Hi everyone, welcome to my GitHub! I am a second year at the University of Virginia double majoring in Data Science and Global Security & Justice.
+Hi everyone, welcome to my GitHub! I am a second year at the University of Virginia double majoring in Data Science and Global Security & Justice. I have experience doing coding labs with API Flasks, Azure, Web Deployment, HPC-Batch-Simulation, EDA, building pipelines, kNN, KMeans, Linear Regression, Logistic Regression, Evaluation Metrics, and Decision Trees! Check them out in my repositories.
 
 <!--
 **natalie-s11/natalie-s11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
